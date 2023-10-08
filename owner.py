@@ -1,0 +1,1 @@
+print('Instagram:@brutalexe\nYoutube:@Exe4Us\nGithub:@brutalexe')
